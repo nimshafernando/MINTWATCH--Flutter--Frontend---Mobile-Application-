@@ -1,6 +1,6 @@
-# petsitter
+# Mint Watch LK
 
-Pet sitter app
+Mint Watch app
 
 ## Getting Started
 
