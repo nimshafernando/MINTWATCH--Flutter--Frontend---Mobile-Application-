@@ -57,8 +57,6 @@ This project is licensed under the **MIT License**.
 
 ## 📧 Contact  
 For inquiries, reach out at: **nimsha.riveen@gmail.com**  
-Visit the project on GitHub: [Mint Watches Frontend Repository](https://github.com/your-username/mint-watches-frontend)  
-
 ---  
 
 **Mint Watches Frontend**: Powering an elegant and efficient shopping interface with Flutter.  
