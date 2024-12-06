@@ -2,6 +2,7 @@
 # Mint Watches Frontend 🕒  
 **A Flutter-Based Premium E-Commerce Interface**  
 
+This project was submitted as a university assignment thus the repo name is given "MINTWATCH-MAD2-ASSIGNMENT".
 The **frontend** of Mint Watches is built with **Flutter**, delivering a responsive and visually stunning shopping experience tailored for both mobile and web platforms. Designed with a focus on **UI/UX principles**, this project provides an intuitive and engaging interface for users to browse, explore, and purchase high-quality watches.
 
 ## 🌟 Features  
